@@ -1,0 +1,55 @@
+#main {
+background-color: orangered;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 30px;
+text-align: center;
+}
+
+#tribute-info{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+#tribute-link{
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+    line-height: 2;
+}
+#image{
+    max-width: 10%;
+    height: 20px;
+    width:200px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#img-caption {
+    text-align: center;
+    font-size: 15px;
+}
+
+#deltasprit{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#matthew{
+    text-align: center;
+}
+#kelly{
+    text-align: center;
+}
+#brandon{
+    text-align: center;
+}
+#william{
+    text-align: center;
+}
+#jon{
+    text-align: center;
+}
+
